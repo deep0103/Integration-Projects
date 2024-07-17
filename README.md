@@ -1,2 +1,2 @@
 # test_project
-This is a Test Project to learn GIT Hub
+This is the hub where I will work on the Integration Projects based on Boomi and Jitterbit.
